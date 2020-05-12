@@ -1,0 +1,9 @@
+Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales
+Pac-Man,2600,1982,Puzzle,Atari,7.28,0.45,0,0.08
+Asteroids,2600,1980,Shooter,Atari,4,0.26,0,0.05
+Missile Command,2600,1980,Shooter,Atari,2.56,0.17,0,0.03
+Space Invaders,2600,,Shooter,Atari,2.36,0.14,0,0.03
+Frogger,2600,1981,Action,Parker Bros.,2.06,0.12,0,0.02
+E.T.: The Extra Terrestrial,2600,1981,Action,Atari,1.84,0.11,0,0.02
+BurgerTime,2600,1981,Puzzle,Mattel Interactive,0.55,0.03,0,0.01
+Pokemon X/Pokemon Y,3DS,2013,Role-Playing,Nintendo,5.28,4.19,4.35,0.78
